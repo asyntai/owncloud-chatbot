@@ -1,0 +1,20 @@
+{
+    "translations": {
+        "Asyntai AI Chatbot": "Asyntai KI-Chatbot",
+        "Adds a chat assistant to every page. Users ask a question and get an answer from your own content.": "Fügt jeder Seite einen Chat-Assistenten hinzu. Benutzer stellen eine Frage und erhalten eine Antwort aus Ihren eigenen Inhalten.",
+        "Asyntai widget ID": "Asyntai Widget-ID",
+        "Paste the snippet from your Asyntai dashboard, or only the widget ID. Leave the field empty to switch the chat off.": "Fügen Sie das Snippet aus Ihrem Asyntai-Dashboard ein oder nur die Widget-ID. Lassen Sie das Feld leer, um den Chat auszuschalten.",
+        "Show to users who are logged in": "Angemeldeten Benutzern anzeigen",
+        "Show on the login screen and on public share pages": "Auf der Anmeldeseite und auf öffentlichen Freigabeseiten anzeigen",
+        "Script address (optional)": "Skript-Adresse (optional)",
+        "Leave this field empty to use the standard address.": "Lassen Sie dieses Feld leer, um die Standardadresse zu verwenden.",
+        "Save": "Speichern",
+        "Need help?": "Brauchen Sie Hilfe?",
+        "Setup guide": "Einrichtungsanleitung",
+        "Saving…": "Wird gespeichert …",
+        "Settings saved.": "Einstellungen gespeichert.",
+        "That is not a valid Asyntai widget ID. The chat is switched off.": "Das ist keine gültige Asyntai Widget-ID. Der Chat ist ausgeschaltet.",
+        "Could not save the settings.": "Die Einstellungen konnten nicht gespeichert werden."
+    },
+    "pluralForm": "nplurals=2; plural=(n != 1);"
+}

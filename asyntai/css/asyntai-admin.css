@@ -1,0 +1,38 @@
+#asyntai-admin .asyntai-field {
+	margin-bottom: 18px;
+	max-width: 520px;
+}
+
+#asyntai-admin .asyntai-field > label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 4px;
+}
+
+#asyntai-admin input[type='text'] {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#asyntai-admin .asyntai-hint {
+	color: #555;
+	font-size: 13px;
+	margin-top: 4px;
+}
+
+#asyntai-admin .asyntai-help {
+	margin-top: 20px;
+}
+
+#asyntai-admin .asyntai-message {
+	margin-left: 12px;
+	font-size: 13px;
+}
+
+#asyntai-admin .asyntai-message--ok {
+	color: #2e7d32;
+}
+
+#asyntai-admin .asyntai-message--error {
+	color: #c62828;
+}
